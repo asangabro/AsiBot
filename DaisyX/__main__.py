@@ -74,8 +74,8 @@ buttons = [
     ],
     
     [
-        InlineKeyboardButton(text="Website", url="https://asangabro.ga"),
         InlineKeyboardButton(text="Repot Bug", url="t.me/Asanga_Udara"),
+        InlineKeyboardButton(text="Website", url="https://asangabro.ga"),
     ],
 ]
 
