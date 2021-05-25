@@ -29,7 +29,7 @@ except:
     from youtubesearchpython import SearchVideos
 
 
-@register(pattern="^/music (.*)")
+@register(pattern="^/song (.*)")
 async def download_video(v_url):
 
     lazy = v_url
